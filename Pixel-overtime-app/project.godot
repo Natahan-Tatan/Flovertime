@@ -14,7 +14,7 @@ config/name="Flovertime"
 config/version="0.1.0"
 run/main_scene="uid://c0iymvko0c71q"
 config/quit_on_go_back=false
-config/features=PackedStringArray("4.4", "GL Compatibility")
+config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [autoload]
@@ -50,8 +50,8 @@ project/assembly_name="pixel-overtime-app"
 [gui]
 
 fonts/dynamic_fonts/use_oversampling=false
-theme/custom="uid://6xodd4q0doio"
 theme/default_font_subpixel_positioning=0
+theme/custom="uid://6xodd4q0doio"
 
 [physics]
 
